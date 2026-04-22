@@ -71,17 +71,6 @@ iOS and iPadOS builds are distributed through TestFlight. The App Store release 
 - iCloud sync transfers only metadata; audio files remain local
 - No analytics or telemetry
 
-## Documentation
-
-| Document | Description |
-|----------|-------------|
-| [BUILD.md](BUILD.md) | Build from source: Xcode setup, backend, deployment |
-| [docs/architecture.md](docs/architecture.md) | System design, Mermaid diagrams, platform feature matrix |
-| [docs/prd.md](docs/prd.md) | Product requirements, feature priorities, success metrics |
-| [docs/handoff.md](docs/handoff.md) | Project onboarding and context |
-| [Backend/README.md](Backend/README.md) | Backend service overview |
-| [Backend/API.md](Backend/API.md) | REST API reference |
-
 ## License
 
 Copyright © Brandon Seaver. All rights reserved.
